@@ -4,11 +4,10 @@
 
 2.部署命令改成npm install
 
-3.进入网站添加变量TUNNEL_PROXY=1，Joye里面打开Any权限，设置定时任务，过期时间调到最大
+3.进入网站添加变量TUNNEL_PROXY=1
 
-可指定socks5
+Joye里面打开Any权限，设置定时任务，过期时间调到最大
 
-TUNNEL_PROXY=socks5://用户名:密码@ip:端口
 
 4.redeploy,然后点excute
 
