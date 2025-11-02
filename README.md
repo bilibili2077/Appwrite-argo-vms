@@ -1,10 +1,10 @@
 # 提示:
 
-1.不要选择nodejs模板，选择导入仓库部署
+1.不要选择nodejs模板，选择导入仓库部署,仓库index.js里面修改参数
 
 2.部署命令改成npm install
 
-3.进入网站添加变量TUNNEL_PROXY=1
+3.进入appwrite网站添加变量TUNNEL_PROXY=1
 
 Joye里面打开Any权限，设置定时任务，过期时间调到最大
 
