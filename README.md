@@ -11,7 +11,11 @@
 
 5.打开网址查看是否出现网页，出现则部署正常
 
-6.把网页定时访问保活，推荐利用
+6.把网页定时访问保活，推荐利用下面项目部署保活，也可以利用哪吒监控保活
+
+https://github.com/louislam/uptime-kuma.git 
+
+https://github.com/eooce/Auto-keep-online.git
 
 
 
